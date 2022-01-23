@@ -1,6 +1,6 @@
-##Assignment 1 of SP-5
+# Assignment 1 of SP-5
 
-###While completing this assignment I have learned these things:
+## While completing this assignment I have learned these things:
 
 
 
